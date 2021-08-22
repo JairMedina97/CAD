@@ -2,7 +2,7 @@
 ## This repository includes dwg files ▼
  Files are part of my CAD course, I've decided to upload them to add to my engineering acumen.
 
-### - In the basic CAD file you will find the first basic approach to CAD drawing in.dwg files.
+### - In the basic CAD file you will find the first basic approach to CAD drawing in .dwg files.
 <img src="Images/plano1.PNG" width="600" >
 
 ### - In the Intermediate CAD file there are some mid level sketches and mechanic tools.
